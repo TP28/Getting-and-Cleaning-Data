@@ -1,0 +1,23 @@
+---
+title: "README"
+author: "Tobias Pitz"
+date: "26 April 2019"
+output: 
+  html_document:
+    collapsed: yes
+    fig_heigth: 8
+    fig_width: 10
+    number_sections: yes
+    self_contained: no
+    smooth_scroll: yes
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+---
+
+This readme document shall give you a short description about how to handle and execute the provided code for the Getting and Cleaning Data Project.
+
+As this is a very straight forward R program you don't need to be aware of any dependencies with other programs or skripts. If you are interested in the final results only you can just run the whole program at once. The data used to answer question #4 was created whilst answering question #3 and so on.
+
+In the very beginning of the code you will find a list of R packages I normally use to work with. Not all of them are necessary for this project but some like the dplyr, plyr or rmarkdown are.
+
